@@ -1,3 +1,4 @@
+Edited
 # Full Stack Web Developer Path
 This is a guide to learn full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node. <br>
 The idea behind this repo is, to have a place to log the learning process in an organized way.  <br><br>
